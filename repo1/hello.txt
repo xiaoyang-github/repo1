@@ -1,3 +1,0 @@
-hello world!
-testUser1添加了一条信息
-testUser2添加了一条信息
